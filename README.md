@@ -7,10 +7,8 @@ Built with React + TypeScript + Vite.
 npm create vite@latest my-vue-app -- --template react-ts
 ```
 
-Also used https://v0.dev/ generated the structure.
-
 ## Build and Deploy 
-Setup GitHub pages to with `github_pages` branch and: 
+Setup GitHub pages to with `gh-pages` branch and: 
 
 - Setup A record in GoDaddy point to the IP 
 - On GitHub pages setting, registered zyen.ai as the custom domain 
