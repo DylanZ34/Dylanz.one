@@ -16,8 +16,6 @@ const MarkdownArticle: React.FC<MarkdownArticleProps> = ({ markdownFilePath }) =
       try {
         const response = await fetch(markdownFilePath);
         const text = await response.text();
-        console.log(response);
-
         setMarkdownContent(text);
       } catch (error) {
         console.error('Error fetching markdown:', error);
