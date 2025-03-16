@@ -27,3 +27,5 @@ git push
 ```
 
 Now clean browser buffer, dylanz.one should be updated.
+
+NOTE: above should be auto now
