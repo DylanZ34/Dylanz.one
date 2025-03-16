@@ -1,11 +1,10 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
-import ProductShowcase from "./components/ProductShowcase"
+import { BrowserRouter as Router } from 'react-router-dom'
 import Footer from "./components/Footer"
 import './index.css'
-import MarkdownArticle from "./components/MarkdownArticle"
 import LeftPanel from "./components/LeftPanel"
+import App from './App'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
@@ -15,19 +14,7 @@ createRoot(document.getElementById('root')!).render(
           title="Dylan Z."
           description="Passionate about classical music, composition, physics, quizbowl, and anything else I can model on."
         />
-        <div className="flex flex-col md:flex-row min-h-screen">
-          <div className="w-full md:w-3/4 md:ml-[25%] p-6 md:p-8">
-            <Routes>
-              <Route path="/" element={<ProductShowcase />} />
-              <Route path="/quizbowl-fun" element={<MarkdownArticle markdownFilePath="/quizbowl-fun.md" />} />
-              <Route path="/learning-planner" element={<MarkdownArticle markdownFilePath="/learning-planner.md" />} />
-              <Route path="/making-music" element={<MarkdownArticle markdownFilePath="/making-music.md" />} />
-              <Route path="/physics-and-astronomy" element={<MarkdownArticle markdownFilePath="/physics-and-astronomy.md" />} />
-              <Route path="/the-hodge" element={<MarkdownArticle markdownFilePath="/the-hodge.md" />} />
-              <Route path="/calm-me-down" element={<MarkdownArticle markdownFilePath="/calm-me-down.md" />} />
-            </Routes>
-          </div>
-        </div>
+        <App />
         <Footer />
       </div>
     </Router>
