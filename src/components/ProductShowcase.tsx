@@ -39,11 +39,11 @@ export default function ProductShowcase() {
     },
     {
       "id": 5,
-      "title": "The Hudge",
+      "title": "The Hodge",
       "summary": "An imaginary nation",
-      "image": "05_hudge.jpg",
+      "image": "05_hodge.jpg",
       "description": "An imaginary nation with full set of laws, currency, and a constitution.",
-      "learnMore": "/the-hudge"
+      "learnMore": "/the-hodge"
     },
     {
       "id": 10,

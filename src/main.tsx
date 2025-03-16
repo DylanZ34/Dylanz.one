@@ -23,7 +23,7 @@ createRoot(document.getElementById('root')!).render(
               <Route path="/learning-planner" element={<MarkdownArticle markdownFilePath="/learning-planner.md" />} />
               <Route path="/making-music" element={<MarkdownArticle markdownFilePath="/making-music.md" />} />
               <Route path="/physics-and-astronomy" element={<MarkdownArticle markdownFilePath="/physics-and-astronomy.md" />} />
-              <Route path="/the-hudge" element={<MarkdownArticle markdownFilePath="/the-hudge.md" />} />
+              <Route path="/the-hodge" element={<MarkdownArticle markdownFilePath="/the-hodge.md" />} />
               <Route path="/calm-me-down" element={<MarkdownArticle markdownFilePath="/calm-me-down.md" />} />
             </Routes>
           </div>

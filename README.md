@@ -21,16 +21,11 @@ git checkout main
 git pull
 npm run build
 git checkout github_pages
+rm -rf assets/ *.md *.svg *.png *.html
 cp -r dist/* .
-git status
-```
-
-Identify the old compelled `index*.` under `assets` and remove.
-
-```bash
 git add .
-git commit -a
+git commit -a -m "release v..."
 git push
 ```
 
-Now clean browser buffer, zyen.ai should be updated.
+Now clean browser buffer, dylanz.one should be updated.
