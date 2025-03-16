@@ -1,0 +1,122 @@
+/* MarkdownArticle.css */
+.markdown-article {
+  background-color: #111;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  line-height: 1.8;
+  font-family: 'Georgia', serif;
+  color: #e0e0e0;
+}
+
+.markdown-article h1 {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.2;
+  font-weight: bold;
+  text-align: center;
+}
+
+.markdown-article h2 {
+  font-size: 1.5em;
+  color: #bbb;
+  margin-bottom: 1.5em;
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.markdown-article h3,
+.markdown-article h4 {
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  color: #89cff0;
+}
+
+.markdown-article p {
+  margin-bottom: 1.2em;
+  text-align: justify;
+  font-size: 1.1em;
+}
+
+.markdown-article h1 + p::first-letter,
+.markdown-article h2 + p::first-letter {
+  font-size: 3.5em;
+  float: left;
+  padding-right: 8px;
+  line-height: 1;
+  color: #89cff0;
+}
+
+.markdown-article a {
+  color: #89cff0;
+  text-decoration: none;
+}
+
+.markdown-article a:hover {
+  text-decoration: underline;
+}
+
+.markdown-article ul,
+.markdown-article ol {
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
+
+.markdown-article ul {
+  list-style-type: disc;
+}
+
+.markdown-article ol {
+  list-style-type: decimal;
+}
+
+.markdown-article li {
+  margin-bottom: 5px;
+}
+
+.markdown-article code {
+  background-color: #222;
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-family: 'Courier New', monospace;
+}
+
+.markdown-article pre {
+  background-color: #222;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  font-family: 'Courier New', monospace;
+}
+
+.markdown-article blockquote {
+  margin: 2em 0;
+  padding: 1em 2em;
+  border-left: 4px solid #89cff0;
+  background-color: #1a1a1a;
+  font-style: italic;
+  font-size: 1.2em;
+}
+
+.floating-image {
+  margin: 20px 20px 20px 20px;
+  max-width: 40%;
+  text-align: center;
+}
+
+.floating-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 8px;
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+.floating-image .caption {
+  font-size: 0.9em;
+  color: #888;
+  font-style: italic;
+  line-height: 1.4;
+  text-align: center;
+}
