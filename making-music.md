@@ -1,35 +1,17 @@
-# This is a test
+# Dylan's Classical Music Performance 
 
-## This is a test
+A collection on Dylan's classical music performace.
 
-Test content:
+## Composition
 
+### Lost in Spacetime
 
+- [Piano Play](https://youtu.be/vl2Exjt2Mf4)
+- [Score](https://drive.google.com/file/d/1VQreJkyFInFK89i0bCOa3WEv-js8VWdb/view?usp=sharing)
 
+## Piano Pieces
 
-## Understanding Modern AI Technologies
-
-### Generative AI
-Generative AI represents a breakthrough in artificial intelligence that can create new content, from text and images to code and music. These systems, built on large language models and deep learning architectures, learn patterns from vast amounts of training data to generate human-like outputs.
-![This is an image](https://science.nasa.gov/wp-content/uploads/2023/09/stsci-01ga76rm0c11w977jrhgj5j26x-2.png)
-
-AI agents are autonomous or semi-autonomous systems that can perceive their environment and take actions to achieve specific goals. They combine multiple AI capabilities, including:
-- Decision-making algorithms
-- Natural language processing
-- Task planning and execution
-- Learning from feedback and experience
-
-[This is a link](https://www.google.com)
-### Retrieval-Augmented Generation (RAG)
-RAG is an innovative approach that enhances large language models by combining:
-1. A knowledge retrieval system
-2. A generative AI model
-
-This architecture allows AI systems to:
-- Access and reference specific information from external sources
-- Generate more accurate and factual responses
-- Reduce hallucinations and improve reliability
-- Stay up-to-date with current information
-
-The combination of these technologies is pushing the boundaries of what's possible in artificial intelligence, creating more capable and reliable AI systems.
-
+- [etude in c minor revolutionary chopin](https://youtu.be/7F5l6RxL-T4)
+- [danza de la moza donosa](https://youtu.be/jMH-eq9njPY)
+- [haydn grant sonata](https://youtu.be/3qlEn1YOXZg)
+- [Senior House 2024 - 05 Dylan Chopin](https://youtu.be/a948KwGHf-Q)
