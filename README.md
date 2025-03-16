@@ -13,7 +13,6 @@ Edit the Markdown files under `public` folder. Such as edit the Markdown content
 Edit content in `src/ProductList.tsx` file. 
 ```js
   {
-    "id": 1,
     "title": "Quizbowl Fun",
     "summary": "Notes and resources for quizbowl",
     "image": "01_quizbowl.jpg",

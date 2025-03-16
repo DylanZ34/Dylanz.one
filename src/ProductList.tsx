@@ -2,23 +2,6 @@
 
 export const productList = [
   {
-    "id": 1,
-    "title": "Quizbowl Fun",
-    "summary": "Notes and resources for quizbowl",
-    "image": "01_quizbowl.jpg",
-    "description": "Notes and resources for quizbowl",
-    "learnMore": "quizbowl-fun"
-  },
-  {
-    "id": 2,
-    "title": "Learning Planner",
-    "summary": "Personalized AI study and training guide.",
-    "image": "02_learning_planner.jpg",
-    "description": "Creates tailored learning plans, tracks progress, and suggests resources to optimize study time for students and professionals.",
-    "learnMore": "learning-planner"
-  },
-  {
-    "id": 3,
     "title": "Making Music",
     "summary": "My compositions",
     "image": "03_composition.jpg",
@@ -26,7 +9,20 @@ export const productList = [
     "learnMore": "making-music"
   },
   {
-    "id": 4,
+    "title": "Quizbowl Fun",
+    "summary": "Notes and resources for quizbowl",
+    "image": "01_quizbowl.jpg",
+    "description": "Notes and resources for quizbowl",
+    "learnMore": "quizbowl-fun"
+  },
+  {
+    "title": "Learning Planner",
+    "summary": "Personalized AI study and training guide.",
+    "image": "02_learning_planner.jpg",
+    "description": "Creates tailored learning plans, tracks progress, and suggests resources to optimize study time for students and professionals.",
+    "learnMore": "learning-planner"
+  },
+  {
     "title": "Physics and Astronomy",
     "summary": "Notes and resources for physics",
     "image": "04_physics.jpg",
@@ -34,7 +30,6 @@ export const productList = [
     "learnMore": "physics-and-astronomy"
   },
   {
-    "id": 5,
     "title": "The Hodge",
     "summary": "An imaginary nation",
     "image": "05_hodge.jpg",
@@ -42,7 +37,6 @@ export const productList = [
     "learnMore": "the-hodge"
   },
   {
-    "id": 10,
     "title": "Calm Me Down",
     "summary": "AI-guided relaxation and stress relief.",
     "image": "10_calm_me_down.jpg",
