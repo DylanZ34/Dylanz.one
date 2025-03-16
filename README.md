@@ -11,7 +11,7 @@ npm create vite@latest my-vue-app -- --template react-ts
 Setup GitHub pages to with `gh-pages` branch and: 
 
 - Setup A record in GoDaddy point to the IP 
-- On GitHub pages setting, registered zyen.ai as the custom domain 
+- On GitHub pages setting, registered dylanz.one as the custom domain 
 
 Build & deploy:
 ```bash
