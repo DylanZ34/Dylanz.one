@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-
+import { Link } from "react-router-dom"
 interface Product {
   id: number
   title: string
@@ -50,7 +50,11 @@ export default function ProductCard({ product }: ProductCardProps) {
         <div className="absolute w-full h-full backface-hidden bg-gray-900 rounded-lg overflow-hidden border border-gray-800 rotate-y-180 p-6 flex flex-col items-center justify-center">
           <p className="text-gray-300">{product.description}</p>
           {product.learnMore && (
-            <a href={product.learnMore} className="text-blue-500 hover:text-blue-600 w-full text-right">Learn More</a>
+            <div className="text-blue-500 hover:text-blue-600 w-full text-right">
+              <Link to={product.learnMore}>
+                Learn More
+              </Link>
+            </div>
           )}
         </div>
       </div>
