@@ -9,14 +9,14 @@ import LeftPanel from "./components/LeftPanel"
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <div className="flex flex-col min-h-screen bg-black text-white">
-      <LeftPanel
-        title="Dylan Z."
-        description="Passionate about classical music, composition, physics, quizbowl, and anything else I can model on."
-      />
-      <div className="flex flex-col md:flex-row min-h-screen">
-        <div className="w-full md:w-3/4 md:ml-[25%] p-6 md:p-8">
-          <Router>
+    <Router>
+      <div className="flex flex-col min-h-screen bg-black text-white">
+        <LeftPanel
+          title="Dylan Z."
+          description="Passionate about classical music, composition, physics, quizbowl, and anything else I can model on."
+        />
+        <div className="flex flex-col md:flex-row min-h-screen">
+          <div className="w-full md:w-3/4 md:ml-[25%] p-6 md:p-8">
             <Routes>
               <Route path="/" element={<ProductShowcase />} />
               <Route path="/quizbowl-fun" element={<MarkdownArticle markdownFilePath="/quizbowl-fun.md" />} />
@@ -26,10 +26,10 @@ createRoot(document.getElementById('root')!).render(
               <Route path="/the-hudge" element={<MarkdownArticle markdownFilePath="/the-hudge.md" />} />
               <Route path="/calm-me-down" element={<MarkdownArticle markdownFilePath="/calm-me-down.md" />} />
             </Routes>
-          </Router>
+          </div>
         </div>
+        <Footer />
       </div>
-      <Footer />
-    </div>
+    </Router>
   </StrictMode>,
 )
