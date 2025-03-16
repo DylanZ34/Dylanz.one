@@ -1,0 +1,31 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Or master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js (if necessary)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # Or your desired Node.js version
+
+      - name: Install dependencies (if necessary)
+        run: npm install # Or yarn install, pnpm install
+
+      - name: Build (if necessary)
+        run: npm run build # Or yarn build, pnpm build, hugo, jekyll build, etc.
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist # Or ./public, ./_site, etc. Depends on your build output folder.
+          cname: dylanz.one #Optional, if you use a custom domain.
