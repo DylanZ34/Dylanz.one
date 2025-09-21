@@ -22,7 +22,7 @@ fault-tolerant quantum computers become more freely available.
 [Quantum Image Processing paper](https://dylanz.one/quantum_image_processing_paper.pdf)
 
 
-### Retrieval-Augmented Generation (RAG)
+### Gamma Ray Bursts
 Gamma Ray Bursts (GRBs) are the brightest and most powerful explosions in the universe, emitting light of the shortest wavelength (gamma rays), and occur when stars collapse into black holes or when neutron stars merge. In the past, several theories have been proposed to explain GRBs while also unifying relativity with quantum mechanics. Among these is loop quantum gravity, which proposes that photons travel slower if they have very high energies. In this paper, we analyze intensity and time data of photons received from GRBs to evaluate the integrity of the loop quantum gravity theory and whether the values it predicts line up with observed data values of photon travel time. We ultimately show that loop quantum gravity’s predictions do not line up with what is observed, and that all light travels at the same speed.
 ![Poster](https://dylanz.one/GRB_poster.png)
 
