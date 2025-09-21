@@ -7,7 +7,7 @@
 
 ### Quantum Computing
 Generative AI represents a breakthrough in artificial intelligence that can create new content, from text and images to code and music. These systems, built on large language models and deep learning architectures, learn patterns from vast amounts of training data to generate human-like outputs.
-![This is an image](https://science.nasa.gov/wp-content/uploads/2023/09/stsci-01ga76rm0c11w977jrhgj5j26x-2.png)
+[Quantum Image Processing paper](https://github.com/DylanZ34/Dylanz.one/blob/main/paper%20(6).pdf)
 
 AI agents are autonomous or semi-autonomous systems that can perceive their environment and take actions to achieve specific goals. They combine multiple AI capabilities, including:
 - Decision-making algorithms
