@@ -2,17 +2,17 @@
 
 export const productList = [
   {
-    "title": "Making Music",
+    "title": "Music Composition",
     "summary": "My compositions",
     "image": "03_composition.jpg",
-    "description": "Collection of my compositions, performances, and other musical endeavors.",
+    "description": "Collection of my compositions and performances.",
     "learnMore": "making-music"
   },
   {
-    "title": "Quizbowl Fun",
-    "summary": "Notes and resources for quizbowl",
+    "title": "Quizbowl",
+    "summary": "Notes and resources for Quizbowl",
     "image": "01_quizbowl.jpg",
-    "description": "Notes and resources for quizbowl",
+    "description": "Notes and resources for Quizbowl",
     "learnMore": "quizbowl-fun"
   },
   {
