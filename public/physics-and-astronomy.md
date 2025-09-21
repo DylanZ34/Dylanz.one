@@ -15,7 +15,7 @@ AI agents are autonomous or semi-autonomous systems that can perceive their envi
 - Task planning and execution
 - Learning from feedback and experience
 
-![This is an image](https://www.google.com)
+![This is an image](https://dylanz.one/public/image_2025-09-21_134624557.png)
 ### Retrieval-Augmented Generation (RAG)
 RAG is an innovative approach that enhances large language models by combining:
 1. A knowledge retrieval system
