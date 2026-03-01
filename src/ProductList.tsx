@@ -16,11 +16,11 @@ export const productList = [
     "learnMore": "quizbowl-fun"
   },
   {
-    "title": "Learning Planner",
-    "summary": "Personalized AI study and training guide.",
-    "image": "02_learning_planner.jpg",
-    "description": "Creates tailored learning plans, tracks progress, and suggests resources to optimize study time for students and professionals.",
-    "learnMore": "learning-planner"
+    "title": "Peer 1 on 1",
+    "summary": "Social inclusion for neurodiverse youth in San Diego",
+    "image": "02_peer_1on1.jpg",
+    "description": "Peer 1 on 1 is a nonprofit organization bringing together neurotypical and neurodiverse youth (ages 5-18) for fun activities, clubs, and social events in the 4S Ranch community.",
+    "learnMore": "peer-1-on-1"
   },
   {
     "title": "Physics and Astronomy",
