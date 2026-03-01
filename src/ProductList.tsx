@@ -12,7 +12,7 @@ export const productList = [
     "title": "Quizbowl",
     "summary": "Notes and resources for Quizbowl",
     "image": "01_quizbowl.jpg",
-    "description": "Notes and resources for Quizbowl",
+    "description": "Oak Valley Middle School alum, now Del Norte High School varsity. Competing in history, science, literature, and more.",
     "learnMore": "quizbowl-fun"
   },
   {

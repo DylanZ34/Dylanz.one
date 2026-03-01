@@ -1,35 +1,38 @@
-# This is a test
+# Quizbowl
 
-## This is a test
+Quizbowl is a competitive academic trivia competition where teams answer questions across a wide range of subjects including history, science, literature, arts, and more.
 
-Test content:
+## My Quizbowl Journey
 
+### Oak Valley Middle School
+I represented Oak Valley Middle School in quizbowl competitions during my middle school years, building foundational knowledge and competitive skills.
 
+### Del Norte High School
+Currently, I represent **Del Norte High School** on the **varsity team**. We compete against other high schools in regional and national competitions.
 
+## What I Learned
 
-## Understanding Modern AI Technologies
+Quizbowl has taught me:
+- Broad knowledge across multiple subjects
+- Quick recall and thinking under pressure
+- Teamwork and collaboration
+- How to buzz in strategically
 
-### Generative AI
-Generative AI represents a breakthrough in artificial intelligence that can create new content, from text and images to code and music. These systems, built on large language models and deep learning architectures, learn patterns from vast amounts of training data to generate human-like outputs.
-![This is an image](https://science.nasa.gov/wp-content/uploads/2023/09/stsci-01ga76rm0c11w977jrhgj5j26x-2.png)
+## Competition Format
 
-AI agents are autonomous or semi-autonomous systems that can perceive their environment and take actions to achieve specific goals. They combine multiple AI capabilities, including:
-- Decision-making algorithms
-- Natural language processing
-- Task planning and execution
-- Learning from feedback and experience
+Quizbowl questions cover:
+- **History** - World history, American history, timelines
+- **Science** - Physics, chemistry, biology, astronomy
+- **Literature** - Books, authors, literary works
+- **Arts** - Visual arts, music, architecture
+- **Geography** - Countries, capitals, landmarks
+- **Current Events** - News, politics, world affairs
 
-[This is a link](https://www.google.com)
-### Retrieval-Augmented Generation (RAG)
-RAG is an innovative approach that enhances large language models by combining:
-1. A knowledge retrieval system
-2. A generative AI model
+## Resources
 
-This architecture allows AI systems to:
-- Access and reference specific information from external sources
-- Generate more accurate and factual responses
-- Reduce hallucinations and improve reliability
-- Stay up-to-date with current information
+- [National Academic Quiz Tournaments (NAQT)](https://www.naqt.com/)
+- [Quizbowl Info](https://www.quizbowl.info/)
 
-The combination of these technologies is pushing the boundaries of what's possible in artificial intelligence, creating more capable and reliable AI systems.
+---
 
+*Go Wolves! 🐺*
