@@ -1,6 +1,6 @@
-# Peer 1 on 1 - 4S Ranch
+# Peer 1 on 1 - San Diego 4S Ranch
 
-Peer 1 on 1 is a nonprofit organization dedicated to providing social inclusion for youth on the autism spectrum and other developmental disorders. Our 4S Ranch branch brings the Peer 1 on 1 mission to the San Diego community.
+Peer 1 on 1 is a nonprofit organization dedicated to providing social inclusion for youth on the autism spectrum and other developmental disorders. Our San Diego 4S Ranch branch brings the Peer 1 on 1 mission to our local community.
 
 ## Our Mission
 
@@ -21,7 +21,21 @@ We organize a variety of activities including:
 - And more!
 
 ### Teen Volunteer Program
-Teen volunteers (ages 9+) serve as role models and friends, earning community service hours while making a real difference in the lives of neurodiverse youth.
+Teen volunteers serve as role models and friends, earning community service hours while making a real difference in the lives of neurodiverse youth.
+
+## Leadership Team
+
+### Dylan Zhang - President / Public Relationship Director
+Dylan is a junior at Del Norte High School. He loves making connections with neurodiverse children through sports and arts. Aside from Peer 1 on 1, he also tutors neurodivergent children. In his free time, he likes to learn about physics, play piano and clarinet, and watch soccer.
+
+### Kasra Kermani - Vice President
+Kasra is a junior at Del Norte High School. Since starting at Peer 1 on 1, he has gained valuable experience working with neurodivergent children through sports, discussions, and helping them feel involved. He also volunteers at a memory care center. His interests include studying geography, swimming, watching soccer, and playing clarinet.
+
+### Eric Wu - Secretary
+Eric is a junior at Del Norte High School and is passionate about helping neurodivergent children feel included and heard. He creates opportunities for kids to express themselves in a safe environment. Outside of Peer 1 on 1, he enjoys snowboarding and playing badminton.
+
+### Derek Kang - Treasurer
+Derek is a junior at Del Norte High School who is passionate about supporting neurodivergent children and helping them feel valued. He advocates for neurodiversity through fundraising and events. In his free time he likes to snowboard and play violin.
 
 ## Who We Serve
 
@@ -50,7 +64,7 @@ Become a peer volunteer! You'll:
 
 **Email:** peer1on1forautism@gmail.com  
 **Phone:** (657) 508-9552  
-**Website:** peer1on1.org
+**Website:** peer1on1.org/san-diego-4s-ranch
 
 ---
 
