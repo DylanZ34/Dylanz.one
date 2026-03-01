@@ -6,8 +6,13 @@ A collection on Dylan's classical music performace.
 
 ### Lost in Spacetime
 
-- [Piano Play](https://youtu.be/vl2Exjt2Mf4)
+- [Piano Play](https://youtu.be/cY8YN2-CH9E)
 - [Score](https://drive.google.com/file/d/1VQreJkyFInFK89i0bCOa3WEv-js8VWdb/view?usp=sharing)
+
+### Through the cloud
+
+- [Piano Play](https://youtu.be/MJvzo81VDfM)
+- [Score](through-the-cloud.pdf)
 
 ## Piano Pieces
 
