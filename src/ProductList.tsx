@@ -19,7 +19,7 @@ export const productList = [
     "title": "Peer 1 on 1",
     "summary": "Social inclusion for neurodiverse youth in San Diego",
     "image": "02_peer_1on1.jpg",
-    "description": "Peer 1 on 1 is a nonprofit organization bringing together neurotypical and neurodiverse youth (ages 5-18) for fun activities, clubs, and social events in the 4S Ranch community.",
+    "description": "San Diego 4S Ranch branch led by Dylan Zhang. Bringing neurotypical and neurodiverse youth (ages 5-18) together for fun activities, clubs, and social events in our community.",
     "learnMore": "peer-1-on-1"
   },
   {
