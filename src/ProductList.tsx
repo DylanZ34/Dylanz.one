@@ -37,10 +37,10 @@ export const productList = [
     "learnMore": "the-hodge"
   },
   {
-    "title": "Calm Me Down",
-    "summary": "AI-guided relaxation and stress relief.",
-    "image": "10_calm_me_down.jpg",
-    "description": "Provides breathing exercises, meditation guidance, and soothing content to help manage stress and anxiety.",
-    "learnMore": "calm-me-down"
+    "title": "Help My Social Skills",
+    "summary": "AI-guided social skills tutorial",
+    "image": "10_social_skills.jpg",
+    "description": "AI-guided tutorial for neurodivergent kids to develop social skills",
+    "learnMore": "help-my-social-skills"
   }
 ]
