@@ -28,13 +28,9 @@ The **Republic of Hodges** is a sovereign nation characterized by its massive la
 
 *   **Currency:** The **Hodge Buck** ( ~~H~~ ). The **H1** note features the **Tower of Stratin**, and the **H5** note depicts the **Robert Searhod Memorial** in Hodgia. Both carry the Latin motto: *est unitatis, cum felicitatem*.
 
-    **H1 (Hodge Buck 1):**
+    ![Hodge Buck 1 (H1)](Hodge-buck-1.png)
 
-    ![Hodge Buck 1 (H1)](Hodge-buck-1.jpg)
-
-    **H5 (Hodge Buck 5):**
-
-    ![Hodge Buck 5 (H5)](Hodge-buck-5.jpg)
+    ![Hodge Buck 5 (H5)](Hodge-buck-5.png)
 
 ---
 
@@ -72,10 +68,10 @@ The Republic is the headquarters of the **Hodge Alliance**, the world’s most p
 
 ### **Official Newspaper Archives**
 These links provide the most comprehensive historical records of the Republic:
-*   [**The Daily Hodge**](https://docs.google.com/document/d/1uk9f2vvhXKMMPqLG_yj-lICa9EMLIRSu/edit?usp=drive_link&ouid=105932468790022068736&rtpof=true&sd=true) – *Sports updates and the ongoing health saga of Bob Zwick.*
-*   [**The Hodgia Times V1**](https://docs.google.com/document/d/1d9kAYp-7WvUx7pvj1K-p7PKHv4cAe6Jc/edit?usp=drive_link&ouid=105932468790022068736&rtpof=true&sd=true) – *The Singapore Revolution and the Explosive Lime Ice Cream Riots.*
+*   [**The Hodgia Times V1**](https://docs.google.com/document/d/1d9kAYp-7WvUx7pvj1K-p7PKHv4cAe6Jc/edit?usp=sharing&ouid=105932468790022068736&rtpof=true&sd=true) – *The Singapore Revolution and the Explosive Lime Ice Cream Riots.*
 *   [**The Hodgia Times V3**](https://docs.google.com/document/d/1NdWS9x_pI0Jle-daKUSkB7xwit1Gd7GD/edit?usp=drive_link&ouid=105932468790022068736&rtpof=true&sd=true) – *The REAPO Manufacturing Strike and 15 News Facts.*
 *   [**The Hodgia Times V4**](https://docs.google.com/document/d/1bBdn4q8_uTIqgz0gFchHd8S9EPJc-1ww/edit?usp=drive_link&ouid=105932468790022068736&rtpof=true&sd=true) – *Incan Fighter Jet Investigation and the National Hodginian Awards.*
+*   [**The Daily Hodge**](https://docs.google.com/document/d/1uk9f2vvhXKMMPqLG_yj-lICa9EMLIRSu/edit?usp=drive_link&ouid=105932468790022068736&rtpof=true&sd=true) – *Sports updates and the ongoing health saga of Bob Zwick.*
 
 ***
 
