@@ -98,22 +98,25 @@
   font-size: 1.2em;
 }
 
-.floating-image {
-  margin: 20px 20px 20px 20px;
-  max-width: 40%;
+.markdown-image {
+  margin: 20px auto;
+  max-width: min(900px, 100%);
   text-align: center;
+  clear: both;
 }
 
-.floating-image img {
+
+.markdown-image img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin-bottom: 8px;
+  margin: 0 auto 8px auto;
   border-radius: 3px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.4);
 }
 
-.floating-image .caption {
+
+.markdown-image .caption {
   font-size: 0.9em;
   color: #888;
   font-style: italic;

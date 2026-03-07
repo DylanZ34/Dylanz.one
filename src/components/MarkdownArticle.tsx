@@ -28,7 +28,7 @@ const MarkdownArticle: React.FC<MarkdownArticleProps> = ({ markdownFilePath }) =
   const renderers = {
     img: ({ src, alt }: { src?: string; alt?: string }) => {
       return (
-        <div className="float-left floating-image">
+        <div className="markdown-image">
           <img src={src} alt={alt} loading="lazy" />
           {alt && <p className="caption">{alt}</p>}
         </div>
