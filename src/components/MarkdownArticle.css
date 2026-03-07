@@ -100,7 +100,8 @@
 
 .markdown-image {
   margin: 20px auto;
-  max-width: min(900px, 100%);
+  width: min(600px, 100%);
+  min-width: min(300px, 100%);
   text-align: center;
   clear: both;
 }
