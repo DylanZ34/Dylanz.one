@@ -16,11 +16,11 @@ export const productList = [
     "learnMore": "quizbowl-fun"
   },
   {
-    "title": "Peer 1 on 1",
-    "summary": "Social inclusion for neurodiverse youth in San Diego",
+    "title": "Talk & Feel Lab for ND Kids",
+    "summary": "AI-assisted social, emotional, and language skill-building",
     "image": "02_peer_1on1.jpg",
-    "description": "San Diego 4S Ranch branch led by Dylan Zhang. Bringing neurotypical and neurodiverse youth (ages 5-18) together for fun activities, clubs, and social events in our community.",
-    "learnMore": "peer-1-on-1"
+    "description": "Dylan’s activity stream to help neurodivergent kids build communication, emotional, and social skills using AI-guided roleplay, scripts, and real-world practice (including Peer 1 on 1-style 1:1 practice).",
+    "learnMore": "talk-and-feel-lab-for-nd-kids"
   },
   {
     "title": "Physics and Astronomy",
@@ -38,9 +38,9 @@ export const productList = [
   },
   {
     "title": "Help My Social Skills",
-    "summary": "AI-guided social skills tutorial",
+    "summary": "(Placeholder)",
     "image": "10_social_skills.jpg",
-    "description": "AI-guided tutorial for neurodivergent kids to develop social skills",
+    "description": "Placeholder page — this content is being consolidated into “Talk & Feel Lab for ND Kids”.",
     "learnMore": "help-my-social-skills"
   }
 ]
