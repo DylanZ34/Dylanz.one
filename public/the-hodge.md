@@ -21,6 +21,13 @@ The **Republic of Hodges** is a sovereign nation characterized by its massive la
 
 ---
 
+### **Map**
+Map of the Republic of Hodges:
+
+![Map of the Republic of Hodges](map-of-hodges.jpg)
+
+---
+
 ### **National Symbols**
 *   **Flag:** The national flag features a yellow and blue geometric design on top, with a black rectangular center set against a white base.
 
