@@ -16,8 +16,9 @@ A collection on Dylan's classical music performace.
 
 ## Piano Pieces
 
+- [![Villa-Lobos — O Polichinelo](https://img.youtube.com/vi/S7W8FXldKqQ/hqdefault.jpg)](https://youtu.be/S7W8FXldKqQ)
+- [![Liszt Consolation](https://img.youtube.com/vi/EBz3YJKUU5w/hqdefault.jpg)](https://youtu.be/EBz3YJKUU5w)
 - [![Etude in C Minor “Revolutionary” — Chopin](https://img.youtube.com/vi/7F5l6RxL-T4/hqdefault.jpg)](https://youtu.be/7F5l6RxL-T4)
 - [![Danza de la moza donosa](https://img.youtube.com/vi/jMH-eq9njPY/hqdefault.jpg)](https://youtu.be/jMH-eq9njPY)
 - [![Haydn — Grand Sonata](https://img.youtube.com/vi/3qlEn1YOXZg/hqdefault.jpg)](https://youtu.be/3qlEn1YOXZg)
 - [![Senior House 2024 — Dylan Chopin](https://img.youtube.com/vi/a948KwGHf-Q/hqdefault.jpg)](https://youtu.be/a948KwGHf-Q)
-- [![Villa-Lobos — O Polichinelo](https://img.youtube.com/vi/S7W8FXldKqQ/hqdefault.jpg)](https://youtu.be/S7W8FXldKqQ)
