@@ -1,41 +1,39 @@
+![](talk-and-feel-lab-image1.png)
 # Talk & Feel Lab for ND Kids
+<p style="text-align: center;">An AI-Assisted Social, Emotional and Language Skill-Building Solution Anywhere, Anytime</p>
 
-**AI-assisted social, emotional, and language skill-building.**
+## What is it?
+*I met neurodivergent kids and their parents at events hosted by [Peer1on1 4s Ranch Branch](https://www.instagram.com/peer1on1.4s?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr), a club I founded to help ND kids to build social and communicational skills through peer-led activities. While families constantly shared positive feedback on how these activities created a dynamic context to practise real-world interactions, one question kept coming up: as parents, how are we able to continue this practice at home — when there are no volunteers, no speech therapists, just us and the child?*
 
-## What this is
+*That question stayed with me.*
+ 
+*This is my lab: developing an AI-Assisted solution that enables ND families to practise social, emotional and language skill-building — anywhere, anytime.*
 
-Talk & Feel Lab is Dylan’s umbrella program for helping **neurodivergent kids** build practical skills for:
+## How is AI used?
 
-- **Talking / communication** (language + conversation)
-- **Feeling / emotional skills** (recognizing, naming, regulating)
-- **Connecting / social skills** (friendship, group dynamics, conflict repair)
+<img src="talk-and-feel-lab-image3.jpg" alt="" style="float: left; width:40px; height:auto; margin-right: 15px;">
 
-The key idea: kids learn faster when they can **practice safely and repeatedly** with guidance that matches their needs.
+*At this stage, two chatbots have been developed through ChatGPT. The Curious Chatbot focuses more on emotion management and social skills; Talking Fun focuses mainly on structured language building and conversational skills. Besides the two chatbots, a series of social scenario prompts is also available for parents to download.*
+ 
+1. Curious Chatbot (normal GPT with prompts about emotion control and social cues)
+2. Talking Fun (embedded with pre-structured sentence practice and word banks)
+3. Parent-Led Social Practice Curriculum with Chatbot (social scene analysis)
 
-## How we use AI (ChatGPT)
+## Is AI the whole solution here? 
+*No! My experience told me that social, emotional and language skills building for ND kids is never complete without guidance from a real person — volunteer, teacher, and in this case, parent or guardian at home.*
+ 
+1. Make sure you are around when your child is having fun with these AI tools
+2. Customize word banks, scenarios, sentence structures, etc. to make the conversations come to life
+3. Provide succinct and calm guidance when child struggles with answers 
+4. Cheer up for their achievements!
 
-AI is used as a **practice partner and coaching tool**, not a replacement for real people.
 
-- **Roleplay** common situations (joining a game, handling teasing, asking for help, etc.)
-- Generate **personalized scripts** (easy/medium/hard versions)
-- Create **“what if it goes wrong?”** branches and repair strategies
-- Support **reflection** after practice (“what happened, what to try next time”)
-- Adapt scenarios to different kid profiles (age, interests, support needs)
+## What does success look like?
+*I hope by practising on a regular basis, you grandually find the following in your child:*
 
-## Activities under the Lab (Peer 1:1 is one of them)
+1. An awareness to initiate a conversation and follow the flow
+1. More confidence starting and maintaining conversations
+1. More confidence handling everyday social interactions
+1. Better emotional awareness and calmer "recovery" after difficult social moments
 
-Peer-style 1:1 practice is an important format inside the Lab.
 
-Examples of formats:
-
-- **Peer 1:1 practice** (structured conversation + emotion coaching + feedback)
-- Small group practice (turn-taking, joining groups, teamwork)
-- Parent-supported practice at home (short drills + scripts)
-- Scenario packs for specific settings (school lunch, playground, group projects)
-
-## What success looks like
-
-- More confidence starting and maintaining conversations
-- Better emotional awareness and calmer “recovery” after social mistakes
-- Improved ability to advocate for needs and set boundaries
-- Real-world carryover (school, clubs, family gatherings)

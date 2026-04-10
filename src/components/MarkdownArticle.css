@@ -1,50 +1,43 @@
 /* MarkdownArticle.css */
+@import url('https://googleapis.com');
 .markdown-article {
   background-color: #111;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
   line-height: 1.8;
-  font-family: 'Georgia', serif;
+  font-family: 'Lexend', sans-serif;
   color: #e0e0e0;
 }
 
 .markdown-article h1 {
   font-size: 2.5em;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.8em;
   line-height: 1.2;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
   text-align: center;
 }
 
 .markdown-article h2 {
-  font-size: 1.5em;
+  font-size: 2.0em;
   color: #bbb;
-  margin-bottom: 1.5em;
-  text-align: center;
+  margin-top: 1.5em;
+  margin-bottom: 0.6em;
+  font-family: 'Merriweather', serif;
   font-weight: normal;
-  font-style: italic;
 }
 
 .markdown-article h3,
 .markdown-article h4 {
   margin-top: 1.5em;
-  margin-bottom: 0.8em;
+  margin-bottom: 0.5em;
   color: #89cff0;
 }
 
 .markdown-article p {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.5em;
   text-align: justify;
   font-size: 1.1em;
-}
-
-.markdown-article h1 + p::first-letter,
-.markdown-article h2 + p::first-letter {
-  font-size: 3.5em;
-  float: left;
-  padding-right: 8px;
-  line-height: 1;
-  color: #89cff0;
 }
 
 .markdown-article a {
@@ -58,7 +51,7 @@
 
 .markdown-article ul,
 .markdown-article ol {
-  margin-bottom: 15px;
+  margin-bottom: 8px;
   padding-left: 20px;
 }
 

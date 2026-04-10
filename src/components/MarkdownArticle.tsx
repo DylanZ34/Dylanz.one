@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import './MarkdownArticle.css';
 
 interface MarkdownArticleProps {
@@ -38,7 +39,7 @@ const MarkdownArticle: React.FC<MarkdownArticleProps> = ({ markdownFilePath }) =
 
   return (
     <div className="markdown-article flex-1 p-10">
-      <ReactMarkdown remarkPlugins={[remarkGfm]} components={renderers}>
+      <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]} components={renderers}>
         {markdownContent}
       </ReactMarkdown>
     </div>
