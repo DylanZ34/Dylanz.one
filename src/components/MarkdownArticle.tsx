@@ -27,6 +27,17 @@ const MarkdownArticle: React.FC<MarkdownArticleProps> = ({ markdownFilePath }) =
   }, [markdownFilePath]);
 
   const renderers = {
+    // Unwrap <p><img /></p> which commonly happens when raw HTML <img> is embedded
+    // inside markdown and gets treated as “phrasing content”.
+    p: ({ children, node }: { children?: React.ReactNode; node?: any }) => {
+      const first = node?.children?.[0];
+      const isOnlyChild = (node?.children?.length ?? 0) === 1;
+      const isImg = first?.type === 'element' && first?.tagName === 'img';
+
+      if (isOnlyChild && isImg) return <>{children}</>;
+      return <p>{children}</p>;
+    },
+
     img: ({ src, alt }: { src?: string; alt?: string }) => {
       return (
         <div className="markdown-image">
