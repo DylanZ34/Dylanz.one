@@ -12,7 +12,7 @@ A collection on Dylan's classical music performace.
 ### Through the cloud
 
 - [![Through the cloud — Piano Play](https://img.youtube.com/vi/MJvzo81VDfM/hqdefault.jpg)](https://youtu.be/MJvzo81VDfM)
-- [Score](through-the-cloud.pdf)
+- [Score](making-music/through-the-cloud.pdf)
 
 ## Piano Pieces
 

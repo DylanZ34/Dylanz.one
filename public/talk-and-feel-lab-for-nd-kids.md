@@ -2,7 +2,7 @@
 title: "Talk & Feel Lab for ND Kids"
 subtitle: "An AI-Assisted Social, Emotional and Language Skill-Building Solution Anywhere, Anytime"
 hero:
-  src: "talk-and-feel-lab-image1.png"
+  src: talk-and-feel-lab-for-nd-kids/talk-and-feel-lab-image1.png
   alt: "Talk & Feel Lab"
   width: 400
   align: center
@@ -15,7 +15,7 @@ hero:
 
 *This is my lab: developing an AI-Assisted solution that enables ND families to practise social, emotional and language skill-building — anywhere, anytime.*
 
-:::split{img="talk-and-feel-lab-image4.png" side="left" width="250"}
+:::split{img="talk-and-feel-lab-for-nd-kids/talk-and-feel-lab-image4.png" side="left" width="250"}
 
 ## How is AI used?
 
@@ -27,7 +27,7 @@ hero:
 
 :::
 
-:::split{img="talk-and-feel-lab-image2.jpg" side="right" width="350"}
+:::split{img="talk-and-feel-lab-for-nd-kids/talk-and-feel-lab-image2.jpg" side="right" width="350"}
 
 ## Is AI the whole solution here?
 
@@ -40,7 +40,7 @@ hero:
 
 :::
 
-:::split{img="talk-and-feel-lab-image3.jpg" side="left" width="350"}
+:::split{img="talk-and-feel-lab-for-nd-kids/talk-and-feel-lab-image3.jpg" side="left" width="350"}
 
 ## What does success look like?
 
