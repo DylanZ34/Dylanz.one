@@ -24,20 +24,20 @@ The **Republic of Hodges** is a sovereign nation characterized by its massive la
 ### **Map**
 Map of the Republic of Hodges:
 
-![Map of the Republic of Hodges](map-of-hodges.jpg)
+![Map of the Republic of Hodges](the-hodge/map-of-hodges.jpg)
 
 ---
 
 ### **National Symbols**
 *   **Flag:** The national flag features a yellow and blue geometric design on top, with a black rectangular center set against a white base.
 
-    ![Flag of the Republic of Hodges](Hodge-flag.jpg)
+    ![Flag of the Republic of Hodges](the-hodge/Hodge-flag.jpg)
 
 *   **Currency:** The **Hodge Buck** ( ~~H~~ ). The **H1** note features the **Tower of Stratin**, and the **H5** note depicts the **Robert Searhod Memorial** in Hodgia. Both carry the Latin motto: *est unitatis, cum felicitatem*.
 
-    ![Hodge Buck 1 (H1)](Hodge-buck-1.png)
+    ![Hodge Buck 1 (H1)](the-hodge/Hodge-buck-1.png)
 
-    ![Hodge Buck 5 (H5)](Hodge-buck-5.png)
+    ![Hodge Buck 5 (H5)](the-hodge/Hodge-buck-5.png)
 
 ---
 
