@@ -9,6 +9,38 @@
   color: #e0e0e0;
 }
 
+/* Optional frontmatter-driven title/subtitle/hero */
+.markdown-article .md-hero {
+  margin: 0 auto 14px auto;
+  text-align: center;
+}
+
+.markdown-article .md-hero--left {
+  text-align: left;
+}
+
+.markdown-article .md-hero--right {
+  text-align: right;
+}
+
+.markdown-article .md-hero img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+.markdown-article .md-title {
+  margin-top: 0;
+}
+
+.markdown-article .md-subtitle {
+  margin-top: -0.3em;
+  margin-bottom: 1.2em;
+  text-align: center;
+  color: #bbb;
+  font-size: 1.05em;
+}
+
 .markdown-article h1 {
   font-size: 2.5em;
   margin-bottom: 0.5em;
@@ -116,4 +148,44 @@
 .markdown-image .caption {
   /* Hide visible captions generated from image alt text */
   display: none;
+}
+
+/* Split blocks: :::split{img="..." side="left|right" width="260"} */
+.md-split {
+  --md-split-img-width: 260px;
+  display: grid;
+  grid-template-columns: var(--md-split-img-width) 1fr;
+  grid-template-areas: "image content";
+  gap: 24px;
+  align-items: start;
+  margin: 22px 0;
+}
+
+.md-split--right {
+  grid-template-columns: 1fr var(--md-split-img-width);
+  grid-template-areas: "content image";
+}
+
+.md-split-image {
+  grid-area: image;
+  width: 100%;
+  height: auto;
+  display: block;
+
+  /* Push split images slightly lower to balance against heading text */
+  margin-top: 45px;
+}
+
+.md-split-content {
+  grid-area: content;
+}
+
+@media (max-width: 900px) {
+  .md-split,
+  .md-split--right {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "image"
+      "content";
+  }
 }
