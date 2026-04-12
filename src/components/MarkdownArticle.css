@@ -109,9 +109,6 @@
 
 
 .markdown-image .caption {
-  font-size: 0.9em;
-  color: #888;
-  font-style: italic;
-  line-height: 1.4;
-  text-align: center;
+  /* Hide visible captions generated from image alt text */
+  display: none;
 }
