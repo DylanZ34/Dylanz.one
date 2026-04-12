@@ -12,7 +12,11 @@ export default function App() {
         <Routes>
           <Route index element={<ProductShowcase />} />
           {mdArticles.map((article) => (
-            <Route path={article} element={<MarkdownArticle markdownFilePath={`/${article}.md`} />} />
+            <Route
+              key={article}
+              path={article}
+              element={<MarkdownArticle markdownFilePath={`/${article}.md`} />}
+            />
           ))}
         </Routes>
       </div>
