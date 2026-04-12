@@ -11,7 +11,7 @@
 
 .markdown-article h1 {
   font-size: 2.5em;
-  margin-bottom: 0.8em;
+  margin-bottom: 0.5em;
   line-height: 1.2;
   font-family: 'Merriweather', serif;
   font-weight: bold;
@@ -22,16 +22,21 @@
   font-size: 2.0em;
   color: #bbb;
   margin-top: 1.5em;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.5em;
   font-family: 'Merriweather', serif;
   font-weight: normal;
 }
 
-.markdown-article h3,
-.markdown-article h4 {
+.markdown-article h3 {
+  font-size: 1.2em;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
   color: #89cff0;
+}
+
+.markdown-article h4 {
+  margin-bottom: 0.5em;
+  text-align: center;
 }
 
 .markdown-article p {
