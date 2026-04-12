@@ -1,6 +1,6 @@
 ![](talk-and-feel-lab-image1.png)
 # Talk & Feel Lab for ND Kids
-<p style="text-align: center;">An AI-Assisted Social, Emotional and Language Skill-Building Solution Anywhere, Anytime</p>
+#### An AI-Assisted Social, Emotional and Language Skill-Building Solution Anywhere, Anytime
 
 ## What is it?
 *I met neurodivergent kids and their parents at events hosted by [Peer1on1 4s Ranch Branch](https://www.instagram.com/peer1on1.4s?igsh=NTc4MTIwNjQ2YQ%3D%3D&utm_source=qr), a club I founded to help ND kids to build social and communicational skills through peer-led activities. While families constantly shared positive feedback on how these activities created a dynamic context to practise real-world interactions, one question kept coming up: as parents, how are we able to continue this practice at home — when there are no volunteers, no speech therapists, just us and the child?*
