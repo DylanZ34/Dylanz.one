@@ -50,6 +50,24 @@ Dylan comes across as a student who is motivated by *long-horizon projects* and 
 
 > These are transcript-derived details/snippets you can reuse as proof points. I kept them close to the original phrasing (light cleanup at most).
 
+### Key details (concise, non-repetitive)
+
+1. **Composing a piano concerto (long-horizon craft):** he describes it as a culmination of sustained effort, meant to become a performable work.
+2. **Systems thinking in music:** he’s fascinated by orchestration—how flutes/strings/piano “weave together,” and how instrument interactions change the overall sound.
+3. **Iteration mindset:** he drafts, revises, and will even move sections to different parts of the concerto to make the whole piece work.
+4. **Process over sprinting:** he builds composition “piece by piece” across days (melody → orchestration → intro/development/conclusion), and enjoys the slow accumulation.
+5. **Research like composition:** he wrote a research paper on **quantum computing**, learning across multiple days and narrowing toward a research goal.
+6. **Hypothesis discipline:** he prefers *building up* a hypothesis after learning enough to trust his own guesses.
+7. **Space/physics curiosity with epistemic humility:** he talks about aliens via the **Drake equation** and admits current uncertainty (habitability unknowns; only one example of life).
+8. **Quizbowl as a “coverage system”:** the team coordinates who studies what, aiming for **total coverage** so at least one teammate can answer any question.
+9. **Teaching + personalization:** coaching middle school quizbowl involves subject specialization; working 1:1 with neurodivergent kids requires adapting because “it’s hard to generalize one specific way.”
+10. **Study-habit debugging (Calc BC):** after a trimester that fell short, he changes *how* he studies (more thorough review before getting problems wrong) and improves.
+11. **Story/progression preference (games):** he likes simulation/story games (Civilization, FIFA career mode) and long-running narratives; Minecraft is about shared progression with friends.
+12. **Community across contexts:** he values different communities for different needs—band (especially marching band) for community, gaming for collaborative storytelling.
+13. **Problem-solving around constraints:** in physics club, when faculty opposed competitions during school hours, he worked around it via an after-school organization.
+14. **College direction:** he expresses interest in **astrophysics/particle physics** classes and research about the universe and “our place in the universe.”
+15. **Broader curiosity outside STEM:** he wants to explore **humanities/art history**, citing cave paintings in South Africa and comparing cultures’ art across time.
+
 ### Music / composition
 
 - **Dylan** (interview 3 projects): “I think the most interesting project that I'm working on right now is composing a piano concerto. I feel like I've put a lot of work into it and I put a lot of time into it. It's really a culmination of a lot of effort. I think it's really cool to see all of that work get put into one work that can actually be performed at some point.”
