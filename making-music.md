@@ -25,7 +25,7 @@ A collection on Dylan's classical music performace.
   [![Liszt — Consolation](https://img.youtube.com/vi/EBz3YJKUU5w/hqdefault.jpg)](https://youtu.be/EBz3YJKUU5w)
 
 - **Chopin — Etude in C Minor “Revolutionary”**  
-  [![Chopin — Etude in C Minor “Revolutionary”](https://img.youtube.com/vi/7F5l6RxL-T4/hqdefault.jpg)](https://youtu.be/7F5l6RxL-T4)
+  [![Chopin — Etude in C Minor “Revolutionary”](https://img.youtube.com/vi/C6plK1pLsb4/hqdefault.jpg)](https://youtu.be/C6plK1pLsb4)
 
 - **Danza de la moza donosa**  
   [![Danza de la moza donosa](https://img.youtube.com/vi/jMH-eq9njPY/hqdefault.jpg)](https://youtu.be/jMH-eq9njPY)
